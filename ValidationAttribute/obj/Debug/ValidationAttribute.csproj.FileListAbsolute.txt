@@ -1,0 +1,18 @@
+C:\Users\Kavir\Desktop\Practice2\ClinicManagement\ValidationAttribute\ValidationAttribute\bin\Debug\ValidationAttribute.exe.config
+C:\Users\Kavir\Desktop\Practice2\ClinicManagement\ValidationAttribute\ValidationAttribute\bin\Debug\ValidationAttribute.exe
+C:\Users\Kavir\Desktop\Practice2\ClinicManagement\ValidationAttribute\ValidationAttribute\bin\Debug\ValidationAttribute.pdb
+C:\Users\Kavir\Desktop\Practice2\ClinicManagement\ValidationAttribute\ValidationAttribute\obj\Debug\ValidationAttribute.csprojResolveAssemblyReference.cache
+C:\Users\Kavir\Desktop\Practice2\ClinicManagement\ValidationAttribute\ValidationAttribute\obj\Debug\ValidationAttribute.Form1.resources
+C:\Users\Kavir\Desktop\Practice2\ClinicManagement\ValidationAttribute\ValidationAttribute\obj\Debug\ValidationAttribute.Properties.Resources.resources
+C:\Users\Kavir\Desktop\Practice2\ClinicManagement\ValidationAttribute\ValidationAttribute\obj\Debug\ValidationAttribute.csproj.GenerateResource.Cache
+C:\Users\Kavir\Desktop\Practice2\ClinicManagement\ValidationAttribute\ValidationAttribute\obj\Debug\ValidationAttribute.exe
+C:\Users\Kavir\Desktop\Practice2\ClinicManagement\ValidationAttribute\ValidationAttribute\obj\Debug\ValidationAttribute.pdb
+E:\Riri C#\ValidationAttribute\ValidationAttribute\bin\Debug\ValidationAttribute.exe.config
+E:\Riri C#\ValidationAttribute\ValidationAttribute\obj\Debug\ValidationAttribute.exe
+E:\Riri C#\ValidationAttribute\ValidationAttribute\obj\Debug\ValidationAttribute.pdb
+E:\Riri C#\ValidationAttribute\ValidationAttribute\bin\Debug\ValidationAttribute.exe
+E:\Riri C#\ValidationAttribute\ValidationAttribute\bin\Debug\ValidationAttribute.pdb
+E:\Riri C#\ValidationAttribute\ValidationAttribute\obj\Debug\ValidationAttribute.csprojResolveAssemblyReference.cache
+E:\Riri C#\ValidationAttribute\ValidationAttribute\obj\Debug\ValidationAttribute.Form1.resources
+E:\Riri C#\ValidationAttribute\ValidationAttribute\obj\Debug\ValidationAttribute.Properties.Resources.resources
+E:\Riri C#\ValidationAttribute\ValidationAttribute\obj\Debug\ValidationAttribute.csproj.GenerateResource.Cache
